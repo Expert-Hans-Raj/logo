@@ -1,0 +1,22 @@
+We are trying to get on a platform called buyma.
+They sent me over some instructions on how to get that going but I am not too familiar with API's and webhook URL
+I was wondering if you guys can take a look at this and let me know if it's something you can assist us with.
+See below
+
+Next step for connecting BUYMA API,
+
+(1) Please refer to the following documents for application registration and sandbox shop registration
+https://specification.personal-shopper-api.buyma.com/en/buyma_partners/
+
+(2) After that, please refer to the following document in the sandbox environment and try
+Obtain an access token,
+Register products with the product API,
+Execute the inventory API,
+Create orders in the sandbox application, and try
+Execute the order API,
+Run the shipping API,
+and more!
+https://specification.personal-shopper-api.buyma.com/en/sandbox/usage/
+
+*What is sandbox?
+https://specification.personal-shopper-api.buyma.com/en/sandbox/
